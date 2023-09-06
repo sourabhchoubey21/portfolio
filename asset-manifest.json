@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sourabhchoubey21/react-app.git/static/css/main.4288cb22.css",
+    "main.js": "/sourabhchoubey21/react-app.git/static/js/main.0c31c930.js",
+    "index.html": "/sourabhchoubey21/react-app.git/index.html",
+    "main.4288cb22.css.map": "/sourabhchoubey21/react-app.git/static/css/main.4288cb22.css.map",
+    "main.0c31c930.js.map": "/sourabhchoubey21/react-app.git/static/js/main.0c31c930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4288cb22.css",
+    "static/js/main.0c31c930.js"
+  ]
+}
